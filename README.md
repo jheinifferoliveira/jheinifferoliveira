@@ -1,6 +1,6 @@
 ### Olá! eu sou a Jheiniffer
 - 💻 4º período ADS
-- 🌱 Estudando atualmente C#
+- 🌱 Desenvolvedora C# | .NET  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheinifferoliveira&show_icons=true&theme=synthwave)
 
