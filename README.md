@@ -1,7 +1,8 @@
 ### Olá! eu sou a Jheiniffer
 - 💻 4º período ADS
-- 🌱 Desenvolvedora C# | .NET  
-
+- 🌱 Desenvolvedora C# | .NET
+  
+  ##
 
 <div>
  <a href="https://www.linkedin.com/in/jheinifferoliveira" tarfet="_blank"><img
