@@ -3,7 +3,7 @@
 - 🌱 Desenvolvedora C# | .NET <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  ##
 
- ![Jheiniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jheinifferoliveirao&show_icons=true&theme=radical)
+ ![Jheiniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jheinifferoliveira&show_icons=true&theme=radical)
 
 
 <div>
