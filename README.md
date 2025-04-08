@@ -1,5 +1,5 @@
 ### Olá! eu sou a Jheiniffer
-- 💻 4º período ADS
+- 🎓 Análise e desenvolvimento de sistemas
 - 🌱 Desenvolvedora C# | .NET <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  ##
 
